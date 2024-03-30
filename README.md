@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello World 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia)](https://git.io/typing-svg)
 
+📙 Focusing on Swift & iOS
+🔨 Creator of applications and pods
+💌 Telegram - @kanulvlety
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **unhe1rd/unhe1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
