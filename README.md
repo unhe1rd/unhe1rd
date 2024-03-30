@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia)](https://git.io/typing-svg)
 
 📙 Focusing on Swift & iOS
+
 🔨 Creator of applications and pods
+
 💌 Telegram - @kanulvlety
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhe1rd)](https://github.com/anuraghazra/github-readme-stats)
